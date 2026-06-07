@@ -23,6 +23,9 @@ mit lokalen LLMs (3B–14B) arbeitet
 Xyron ist darauf ausgelegt, alles zu können – nicht nur Smart‑Home, nicht nur Chat, nicht nur Code.
 Es ist eine All‑Purpose‑KI, die du nach deinen Bedürfnissen erweitern kannst.
 
+Wie kommst du auf Xyron?: Per Domaine die per anfrage gegeben werden kann.
+Wie kannst du mit machen?: In dem du einfach auf Discord auf denn Server Xyron kommst oder noch einfacher über GitHub Discussions.
+
 🚀 Features
 🧠 Universeller KI‑Agent
 Xyron kann jede Aufgabe übernehmen, die durch Tools, APIs oder Code lösbar ist.
