@@ -1,8 +1,6 @@
-⭐ Xyron – The Universal Local AI Agent Platform
-Open‑Source. Lokal. Modular. Erweiterbar.
+⭐ Xyron – The Universal Local AI Agent Platform Open‑Source. Lokal. Modular. Erweiterbar.
 
-Xyron ist eine universelle KI‑Agenten‑Plattform, die vollständig lokal läuft und beliebige Aufgaben automatisieren kann.
-Im Gegensatz zu klassischen Chatbots ist Xyron kein einzelner Assistent, sondern ein modulares System, das:
+Xyron ist eine universelle KI‑Agenten‑Plattform, die vollständig lokal läuft und beliebige Aufgaben automatisieren kann. Im Gegensatz zu klassischen Chatbots ist Xyron kein einzelner Assistent, sondern ein modulares System, das:
 
 Tools ausführt
 
@@ -20,18 +18,13 @@ sich selbst erweitern kann (Agentic AI)
 
 mit lokalen LLMs (3B–14B) arbeitet
 
-Xyron ist darauf ausgelegt, alles zu können – nicht nur Smart‑Home, nicht nur Chat, nicht nur Code.
-Es ist eine All‑Purpose‑KI, die du nach deinen Bedürfnissen erweitern kannst.
+Xyron ist darauf ausgelegt, alles zu können – nicht nur Smart‑Home, nicht nur Chat, nicht nur Code. Es ist eine All‑Purpose‑KI, die du nach deinen Bedürfnissen erweitern kannst.
 
-Wie kommst du auf Xyron?: Per Domaine die per anfrage gegeben werden kann.
-Wie kannst du mit machen?: In dem du einfach auf Discord auf denn Server Xyron kommst oder noch einfacher über GitHub Discussions.
+Wie kommst du auf Xyron?: Per Domaine die per anfrage gegeben werden kann. Wie kannst du mit machen?: In dem du einfach auf Discord auf denn Server Xyron kommst oder noch einfacher über GitHub Discussions.
 
-🚀 Features
-🧠 Universeller KI‑Agent
-Xyron kann jede Aufgabe übernehmen, die durch Tools, APIs oder Code lösbar ist.
+🚀 Features 🧠 Universeller KI‑Agent Xyron kann jede Aufgabe übernehmen, die durch Tools, APIs oder Code lösbar ist.
 
-🔧 Tool‑System
-Erweiterbares Tool‑Framework für:
+🔧 Tool‑System Erweiterbares Tool‑Framework für:
 
 Web‑Requests
 
@@ -47,8 +40,7 @@ Git‑Operationen
 
 eigene Plugins
 
-🧩 Modularer Aufbau
-Xyron besteht aus klar getrennten Modulen:
+🧩 Modularer Aufbau Xyron besteht aus klar getrennten Modulen:
 
 Core
 
@@ -64,8 +56,7 @@ Automations
 
 Self‑Improvement
 
-🖥️ Lokale Modelle
-Unterstützt alle modernen GGUF‑Modelle:
+🖥️ Lokale Modelle Unterstützt alle modernen GGUF‑Modelle:
 
 Qwen
 
@@ -79,14 +70,11 @@ Mistral
 
 Empfohlen: Qwen 2.5 7B / 14B
 
-🔄 Self‑Improvement (optional)
-Xyron kann – wenn aktiviert – seinen eigenen Code analysieren und verbessern.
+🔄 Self‑Improvement (optional) Xyron kann – wenn aktiviert – seinen eigenen Code analysieren und verbessern.
 
-🌐 API‑fähig
-REST‑API für externe Systeme, Apps oder Automationen.
+🌐 API‑fähig REST‑API für externe Systeme, Apps oder Automationen.
 
-🎨 Eigene UI
-Basierend auf OpenWebUI, aber erweitert für:
+🎨 Eigene UI Basierend auf OpenWebUI, aber erweitert für:
 
 Tools
 
@@ -98,8 +86,7 @@ Logs
 
 Model‑Management
 
-🛠️ Technologie‑Stack
-Python (Backend, FastAPI)
+🛠️ Technologie‑Stack Python (Backend, FastAPI)
 
 TypeScript + React (UI)
 
@@ -109,8 +96,7 @@ OpenWebUI‑Kompatibilität
 
 Lokale LLMs (GGUF)
 
-📦 Warum Xyron?
-Es gibt viele Assistenten – aber keiner kombiniert:
+📦 Warum Xyron? Es gibt viele Assistenten – aber keiner kombiniert:
 
 lokale KI
 
@@ -126,12 +112,9 @@ Self‑Improvement
 
 offene Architektur
 
-Xyron ist nicht „ein Assistent“.
-Xyron ist eine Plattform, auf der du deinen eigenen Assistenten bauen kannst.
+Xyron ist nicht „ein Assistent“. Xyron ist eine Plattform, auf der du deinen eigenen Assistenten bauen kannst.
 
-🧭 Roadmap
-Xyron 0.1 – Core Release
-Basis‑Agent
+🧭 Roadmap Xyron 0.1 – Core Release Basis‑Agent
 
 Tool‑System
 
@@ -139,33 +122,26 @@ UI‑Integration
 
 Model‑Router
 
-Xyron 0.2 – Tools
-Datei‑Tools
+Xyron 0.2 – Tools Datei‑Tools
 
 Web‑Tools
 
 System‑Tools
 
-Xyron 0.3 – Home‑Automation
-Home‑Assistant‑Tool
+Xyron 0.3 – Home‑Automation Home‑Assistant‑Tool
 
 Automations‑Modul
 
-Xyron 0.4 – API
-REST‑API
+Xyron 0.4 – API REST‑API
 
 externe App‑Integration
 
-Xyron 0.5 – Self‑Improvement
-Code‑Analyse
+Xyron 0.5 – Self‑Improvement Code‑Analyse
 
 Code‑Refactoring
 
 Tool‑Erweiterung
 
-🤝 Mitmachen
-Xyron ist ein Open‑Source‑Projekt.
-Pull Requests, Ideen, Tools und Erweiterungen sind willkommen.
+🤝 Mitmachen Xyron ist ein Open‑Source‑Projekt. Pull Requests, Ideen, Tools und Erweiterungen sind willkommen.
 
-📄 Lizenz
-Apache 2.0 – frei für private und kommerzielle Nutzung.
+📄 Lizenz Apache 2.0 – frei für private und kommerzielle Nutzung.
