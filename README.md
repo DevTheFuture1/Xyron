@@ -26,6 +26,8 @@ It is an all‑purpose AI that you can extend based on your needs.
 ⭐ How to access Xyron
 Via a domain that can be provided upon request.
 
+You can find the installation manual with the Issues installation
+
 ⭐ How to participate
 Join the Xyron Discord server or contribute directly through GitHub Discussions.
 
